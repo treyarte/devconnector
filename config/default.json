@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://trey123:trey123@cluster0-hc7kn.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "TheUniverseAreActors"
+}
